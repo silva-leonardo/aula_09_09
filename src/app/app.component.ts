@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'primeiro-projeto';
+  meunome = 'leonardo da silva'
+  leo = 'é uma variavel'
+  nome = 'Léo'
+  idade = '20'
 }
+
+
